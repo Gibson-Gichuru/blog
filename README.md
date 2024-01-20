@@ -1,8 +1,11 @@
+![Screenshot from 2023-04-17 03-32-36](https://github.com/SpaceyaTech/mastori/assets/23496280/e93b1dd9-84c4-4bec-b075-09dd6a3c8ce4)
+
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![CI Django & Postgres Tests](https://github.com/SpaceyaTech/blog/actions/workflows/django-postgres-ci.yml/badge.svg)](https://github.com/SpaceyaTech/blog/actions/workflows/django-postgres-ci.yml)
+[![CI Django & Postgres Tests](https://github.com/SpaceyaTech/mastori/actions/workflows/django-postgres-ci.yml/badge.svg)](https://github.com/SpaceyaTech/mastori/actions/workflows/django-postgres-ci.yml)
 
 [![Jambo](https://github.com/SpaceyaTech/mastori/actions/workflows/jambo.yaml/badge.svg)](https://github.com/SpaceyaTech/mastori/actions/workflows/jambo.yaml)
 
@@ -59,6 +62,12 @@ The project is designed to help developers build their own blogging website or a
     /account/id/stori/id/reaction/id/
 ```
 
+## Documentation
+```sql
+    /schema/docs/
+
+```
+
 # Features
 Mastori provides the following features:
 
@@ -112,7 +121,7 @@ shows a list of all available blog posts (Stori/Mastori)
 The model naming is abitrary and can be subject to change if need be
 Ther is also need to filter out the various blogposts in relation ti their tittle or date posted hence the filter
 
-![Screenshot from 2023-01-03 00-59-16](https://user-images.githubusercontent.com/23496280/210282497-96bb8b6f-544d-4454-8b01-e3aea9b8745d.png)
+![image](https://github.com/SpaceyaTech/mastori/assets/23496280/d77f3663-5ebc-4420-964c-7d11de44695d)
 
 
 # Contributing
@@ -166,4 +175,4 @@ Mastori is licensed under the MIT License. See LICENSE for more information.
 [Nested Comments by:](https://github.com/SpaceyaTech/Team-Rio-Django/wiki/Nested-Comments) [Fredrick](@aibunny)
 
 # Contributors 
-[![Contributors](https://contrib.rocks/image?repo=SpaceyaTech/blog)](https://github.com/SpaceyaTech/blog/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=SpaceyaTech/mastori)](https://github.com/SpaceyaTech/mastori/graphs/contributors)
